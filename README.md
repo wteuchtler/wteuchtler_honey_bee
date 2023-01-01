@@ -36,20 +36,20 @@
 <details>
   <summary>Acquiring the data</summary>
 
-Working on it!
+Data on colony numbers, colony stressors, honey production, and crop/bee attraction was gathered from the USDA website on pollinators. Data was downloaded from pdf reports. 
 </details>  
 
 <details>
   <summary>Cleaning and organizing the data</summary>
 
-Working on it!
+The original plan was to scrape pdfs from each site, but due to the irregularity of format, it made more sense to download the reports, isolate and convert the partial tables from the pdfs and convert them to csv format. Reports were combined and formatted as needed to form dataframes. 
 
 </details>
 
 <details>
   <summary>Visualizations</summary>
 
-Working on it!
+After using matplotlib in python to map out my analysis of the gathered data, I moved the data to Tableau for final visualizations. My goals were to clearly show how many USDA crops commercial honey bees pollinate, honey bee population fluctuations, honey production by state, and stressor impacts on colonies. For my final presentation, I embedded my Tableau visualizations onto a google site which you can find below.
 
 </details>
 
