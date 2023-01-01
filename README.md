@@ -42,7 +42,7 @@ Data on colony numbers, colony stressors, honey production, and crop/bee attract
 <details>
   <summary>Cleaning and organizing the data</summary>
 
-The original plan was to scrape pdfs from each site, but due to the irregularity of format, it made more sense to download the reports, isolate and convert the partial tables from the pdfs and convert them to csv format. Reports were combined and formatted as needed to form dataframes. 
+The original plan was to scrape pdfs from each site, but due to the irregularity of format, it made more sense to download the reports, convert the reports from pdf to csv format, then isolate the partial tables and convert them to full tables. Reports were combined and formatted as needed to form dataframes. 
 
 </details>
 
