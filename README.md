@@ -12,7 +12,7 @@
   <summary>Bees don't just provide us with delicious honey and a beautifully diverse world of flowering plants, they keep us fed too! </summary>   
 
 
-  While deciding what to dive into for my capstone project, I knew I wanted to pick a topic that I would find interesting to learn about, which would hopefully be interesting to other people too. I was reading a book about the perplexing nature of a bee's mind and the hardships they face as foragers, which made me curious about the role they play as an important part of the food chain. I wanted to consider how they contribute to our agriculture and food production. 
+  While deciding what to dive into for my capstone project, I knew I wanted to pick a topic that I would find interesting to learn about, which would hopefully be interesting to other people, too. I was reading a book about the perplexing nature of a bee's mind and the hardships they face as foragers, which made me curious about the role they play as an important part of the food chain. I wanted to consider how they contribute to our agriculture and food production. 
   
   Over the past few decades, the population of both wild and commercial bees has been in fluctuation or decline. Because bees pollinate many food crops, they have an immense importance to agriculture and food stability for people around the world. While there are many pollinator species such as birds and butterflies, honey bees are the most common and important pollinator to domestic agriculture, and keeping their population numbers up is a critical task. 
   
