@@ -49,7 +49,7 @@ The original plan was to scrape pdfs from each site, but due to the irregularity
 <details>
   <summary>Visualizations</summary>
 
-After using matplotlib in python to map out my analysis of the gathered data, I moved the data to Tableau for final visualizations. My goals were to clearly show how many USDA crops commercial honey bees pollinate, honey bee population fluctuations, honey production by state, and stressor impacts on colonies. For my final presentation, I embedded my Tableau visualizations onto a google site which you can find below.
+After using matplotlib in python to map out my analysis of the gathered data, I moved the data to Tableau for final visualizations. My goals were to clearly show how many USDA crops are pollinated by commercial honey bees, how honey bee population changes, honey production by state, and stressor impacts on colonies. For my final presentation, I embedded my Tableau visualizations onto a google site which you can find below.
 
 </details>
 
